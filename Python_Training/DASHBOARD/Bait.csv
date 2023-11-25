@@ -1,0 +1,89 @@
+Date,Day,Month,Week,Task,Description,Project,From Time,To Time,Task Duration in Minutes,Task Duraton in Hours,Status,Assign
+14-08-2023,Monday,August,33,Others,Mail Checking,NCC,9:00 AM,9:15 AM,15,0.25,Completed,AmmaMuthu
+14-08-2023,Monday,August,33,Certification ,Oracle E-Business Suite R12.1 Financial Management Solution Engineer Specialist,NCC,9:15 AM,10:35 AM,80,1.33,In progress,AmmaMuthu
+14-08-2023,Monday,August,33,Certification ,Oracle E-Business Suite R12.1 Financial Management Solution Engineer Specialist,NCC,11:00 AM,1:30 PM,150,2.5,In progress,AmmaMuthu
+14-08-2023,Monday,August,33,Certification ,Oracle E-Business Suite R12.1 Financial Management Solution Engineer Specialist,NCC,2:25 PM,5:40 PM,195,3.25,Completed,AmmaMuthu
+14-08-2023,Monday,August,33,Others,Time sheet Update,NCC,5:40 PM,5:50 PM,10,0.17,Completed,AmmaMuthu
+14-08-2023,Monday,August,33,Others,Mail Checking,NCC,5:50 PM,6:00 PM,10,0.17,Completed,AmmaMuthu
+16-08-2023,Wednesday,August,33,Others,Mail Checking,NCC,9:00 AM,9:15 AM,15,0.25,Completed,AmmaMuthu
+16-08-2023,Wednesday,August,33,Meeting,Scheduled meeting,NCC,9:15 AM,10:33 AM,78,1.3,Completed,AmmaMuthu
+16-08-2023,Wednesday,August,33,Meeting,Internal Team Meeting,NCC,10:50 AM,1:00 PM,130,2.17,Completed,AmmaMuthu
+16-08-2023,Wednesday,August,33,Certification ,Oracle Cloud integration Foundation  ,NCC,1:00 PM,1:22 PM,22,0.37,In progress,AmmaMuthu
+16-08-2023,Wednesday,August,33,Self Learning,Java Script,NCC,2:01 PM,3:00 PM,59,0.98,In progress,AmmaMuthu
+16-08-2023,Wednesday,August,33,Others,Software Issues,NCC,3:00 PM,3:30 PM,30,0.5,Completed,AmmaMuthu
+16-08-2023,Wednesday,August,33,Certification ,Oracle Cloud integration Foundation  ,NCC,4:00 PM,6:00 PM,120,2,In progress,AmmaMuthu
+17-08-2023,Thursday,August,33,Others,Mail Checking,NCC,9:00 AM,9:20 AM,20,0.33,Completed,AmmaMuthu
+17-08-2023,Thursday,August,33,Self Learning,Oracle Foundation - Basic's,NCC,9:20 AM,9:30 AM,10,0.17,In progress,AmmaMuthu
+17-08-2023,Thursday,August,33,Meeting,Scheduled meeting,NCC,9:30 AM,10:30 AM,60,1,Completed,AmmaMuthu
+17-08-2023,Thursday,August,33,Tasks,DB insatllation On server,NCC,10:50 AM,1:30 PM,160,2.67,In progress,AmmaMuthu
+17-08-2023,Thursday,August,33,Tasks,DB insatllation On server,NCC,2:15 PM,3:37 PM,82,1.37,In progress,AmmaMuthu
+17-08-2023,Thursday,August,33,Tasks,DB insatllation On server,NCC,4:00 PM,6:02 PM,122,2.03,In progress,AmmaMuthu
+18-08-2023,Friday,August,33,Others,Mail Checking,NCC,9:00 AM,9:15 AM,15,0.25,Completed,AmmaMuthu
+18-08-2023,Friday,August,33,Others,Time sheet Update,NCC,9:15 AM,9:30 AM,15,0.25,Completed,AmmaMuthu
+18-08-2023,Friday,August,33,Tasks,Documentation Of Db Installation ,NCC,9:30 AM,10:30 AM,60,1,Completed,AmmaMuthu
+18-08-2023,Friday,August,33,Tasks,Referreing Blog for Db update ,NCC,10:50 AM,1:00 PM,130,2.17,In progress,AmmaMuthu
+18-08-2023,Friday,August,33,Tasks,Referring Documents For Windows & Linux Installation,NCC,1:50 PM,3:40 PM,110,1.83,In progress,AmmaMuthu
+18-08-2023,Friday,August,33,Certification ,OIC foundation Assosiate ,NCC,4:00 PM,5:00 PM,60,1,In progress,AmmaMuthu
+18-08-2023,Friday,August,33,Others,Event / Sowmiya Send off,NCC,5:00 PM,5:40 PM,40,0.67,Completed,AmmaMuthu
+18-08-2023,Friday,August,33,Others,Mail Checking,NCC,5:40 PM,6:02 PM,22,0.37,Completed,AmmaMuthu
+21-08-2023,Monday,August,34,Others,Mail Checking,NCC,9:00 AM,9:10 AM,10,0.17,Completed,AmmaMuthu
+21-08-2023,Monday,August,34,Tasks,Referring Documentation Of Db Installation ,NCC,9:10 AM,9:30 AM,20,0.33,In progress,AmmaMuthu
+21-08-2023,Monday,August,34,Meeting,Scheduled meeting,NCC,9:30 AM,10:30 AM,60,1,Completed,AmmaMuthu
+21-08-2023,Monday,August,34,Tasks,Referring Documentation Of Db Installation ,NCC,10:50 AM,1:15 PM,145,2.42,In progress,AmmaMuthu
+21-08-2023,Monday,August,34,Tasks,Learn Installation on Windows,NCC,2:00 PM,3:30 PM,90,1.5,In progress,AmmaMuthu
+21-08-2023,Monday,August,34,Tasks,Learn to Install about CYGWIN in Server,NCC,3:50 PM,6:00 PM,130,2.17,Completed,AmmaMuthu
+22-08-2023,Tuesday,August,34,Others,Mail Checking,NCC,9:00 AM,9:08 AM,8,0.13,Completed,AmmaMuthu
+22-08-2023,Tuesday,August,34,Meeting,Internal Team Meeting,NCC,9:08 AM,9:30 AM,22,0.37,Completed,AmmaMuthu
+22-08-2023,Tuesday,August,34,Meeting,Scheduled meeting,NCC,9:30 AM,10:30 AM,60,1,Completed,AmmaMuthu
+22-08-2023,Tuesday,August,34,Others,Mail Checking,NCC,10:40 AM,10:50 AM,10,0.17,Completed,AmmaMuthu
+22-08-2023,Tuesday,August,34,Tasks,Linux Commands ,NCC,10:50 AM,12:00 PM,70,1.17,In progress,AmmaMuthu
+22-08-2023,Tuesday,August,34,Meeting,Scheduled meeting,NCC,12:00 PM,1:37 PM,97,1.62,Completed,AmmaMuthu
+22-08-2023,Tuesday,August,34,Tasks,Cygwin Installation On Server,NCC,2:17 PM,3:37 PM,80,1.33,Completed,AmmaMuthu
+22-08-2023,Tuesday,August,34,Others,Time sheet Update,NCC,3:53 PM,4:10 PM,17,0.28,Completed,AmmaMuthu
+22-08-2023,Tuesday,August,34,Tasks,Referring Documentation of EBS Insatllation,NCC,4:10 PM,5:00 PM,50,0.83,In progress,AmmaMuthu
+22-08-2023,Tuesday,August,34,Tasks,Applying Patch & Fix SR  ,NCC,5:00 PM,6:00 PM,60,1,In progress,AmmaMuthu
+23-08-2023,Wednesday,August,34,Others,Mail Checking,NCC,9:00 AM,9:15 AM,15,0.25,Completed,AmmaMuthu
+23-08-2023,Wednesday,August,34,Meeting,Internal Team Meeting,NCC,9:15 AM,9:30 AM,15,0.25,Completed,AmmaMuthu
+23-08-2023,Wednesday,August,34,Meeting,Scheduled meeting,NCC,9:30 AM,10:30 AM,60,1,Completed,AmmaMuthu
+23-08-2023,Wednesday,August,34,Tasks,Apply patch on Cygwin in Server,NCC,10:50 AM,1:00 PM,130,2.17,In progress,AmmaMuthu
+23-08-2023,Wednesday,August,34,Tasks,Install 19C DB on windows Server,NCC,1:49 PM,3:15 PM,86,1.43,Completed,AmmaMuthu
+23-08-2023,Wednesday,August,34,Meeting,Internal Team Meeting,NCC,3:15 PM,4:00 PM,45,0.75,Completed,AmmaMuthu
+23-08-2023,Wednesday,August,34,Meeting,Scheduled meeting,NCC,4:00 PM,4:20 PM,20,0.33,Completed,AmmaMuthu
+23-08-2023,Wednesday,August,34,Tasks,Re-fix Cygwin Installation,NCC,4:35 PM,6:30 PM,115,1.92,Completed,AmmaMuthu
+24-08-2023,Thursday,August,34,Others,Mail Checking,NCC,9:00 AM,9:10 AM,10,0.17,Completed,AmmaMuthu
+24-08-2023,Thursday,August,34,Tasks,Checking the Folder on Database,NCC,9:10 AM,9:30 AM,20,0.33,Completed,AmmaMuthu
+24-08-2023,Thursday,August,34,Meeting,Scheduled meeting,NCC,9:30 AM,10:30 AM,60,1,Completed,AmmaMuthu
+24-08-2023,Thursday,August,34,Meeting,Scheduled meeting,NCC,10:50 AM,11:30 AM,40,0.67,Completed,AmmaMuthu
+24-08-2023,Thursday,August,34,Tasks,Apply the patch on Database,NCC,11:30 AM,1:30 PM,120,2,Completed,AmmaMuthu
+24-08-2023,Thursday,August,34,Tasks,Setting a CDB on Database,NCC,2:13 PM,6:00 PM,227,3.78,In progress,AmmaMuthu
+25-08-2023,Friday,August,34,Others,Mail Checking,NCC,9:00 AM,9:10 AM,10,0.17,Completed,AmmaMuthu
+25-08-2023,Friday,August,34,Tasks,Checking The SR / for Update,NCC,9:10 AM,9:30 AM,20,0.33,Completed,AmmaMuthu
+25-08-2023,Friday,August,34,Meeting,Scheduled meeting,NCC,9:30 AM,10:30 AM,60,1,Completed,AmmaMuthu
+25-08-2023,Friday,August,34,Tasks,Scheduled meeting,NCC,10:50 AM,1:00 PM,130,2.17,Completed,AmmaMuthu
+25-08-2023,Friday,August,34,Tasks,OCI Foundation ,NCC,1:45 PM,2:30 PM,45,0.75,In progress,AmmaMuthu
+25-08-2023,Friday,August,34,Meeting,Scheduled meeting,NCC,2:30 PM,3:40 PM,70,1.17,Completed,AmmaMuthu
+25-08-2023,Friday,August,34,Tasks,Upgrade Activity on server,NCC,4:00 PM,6:10 PM,130,2.17,In progress,AmmaMuthu
+28-08-2023,Monday,August,35,Others,Mail Checking,NCC,9:00 AM,9:10 AM,10,0.17,Completed,AmmaMuthu
+28-08-2023,Monday,August,35,Others,Time sheet Update,NCC,9:10 AM,9:20 AM,10,0.17,Completed,AmmaMuthu
+28-08-2023,Monday,August,35,Tasks,FindSTR error Resolving,NCC,9:20 AM,1:10 PM,230,3.83,Completed,AmmaMuthu
+28-08-2023,Monday,August,35,Others,Installation On DB 11g Work,NCC,2:00 PM,3:35 PM,95,1.58,In progress,AmmaMuthu
+28-08-2023,Monday,August,35,Others,Installation On DB 11g Work,NCC,4:00 PM,5:30 PM,90,1.5,In progress,AmmaMuthu
+28-08-2023,Monday,August,35,Others,Time sheet Update,NCC,5:30 PM,5:40 PM,10,0.17,Completed,AmmaMuthu
+28-08-2023,Monday,August,35,Tasks,Oracle DB insatllation ,NCC,5:40 PM,6:03 PM,23,0.38,In progress,AmmaMuthu
+29-08-2023,Tuesday,August,35,Others,Mail Checking,NCC,9:00 AM,9:10 AM,10,0.17,Completed,AmmaMuthu
+29-08-2023,Tuesday,August,35,Others,Time sheet Update,NCC,9:10 AM,9:20 AM,10,0.17,Completed,AmmaMuthu
+29-08-2023,Tuesday,August,35,Tasks,Apply a Patch on DBA,NCC,9:20 AM,1:07 PM,227,3.78,Completed,AmmaMuthu
+29-08-2023,Tuesday,August,35,Others,Onam Celebration,NCC,2:00 PM,4:02 PM,122,2.03,Completed,AmmaMuthu
+29-08-2023,Tuesday,August,35,Tasks,Reffering a Document DBA patch,NCC,4:02 PM,6:00 PM,118,1.97,In progress,AmmaMuthu
+30-08-2023,Wednesday,August,35,Others,Mail Checking,NCC,9:00 AM,9:10 AM,10,0.17,Completed,AmmaMuthu
+30-08-2023,Wednesday,August,35,Certification ,Oracle cloud Infrastucture ,NCC,9:10 AM,1:20 PM,250,4.17,In progress,AmmaMuthu
+30-08-2023,Wednesday,August,35,Tasks,Apply the ADPATCH,NCC,2:00 PM,3:33 PM,93,1.55,In progress,AmmaMuthu
+30-08-2023,Wednesday,August,35,Tasks,Preparring Documentation,NCC,4:00 PM,5:50 PM,110,1.83,Completed,AmmaMuthu
+30-08-2023,Wednesday,August,35,Others,Time sheet Update,NCC,5:50 PM,6:00 PM,10,0.17,Completed,AmmaMuthu
+31-08-2023,Thursday,August,35,Others,Mail Checking,NCC,9:00 AM,9:10 AM,10,0.17,Completed,AmmaMuthu
+31-08-2023,Thursday,August,35,Others,Time sheet Update,NCC,9:10 AM,9:30 AM,20,0.33,Completed,AmmaMuthu
+31-08-2023,Thursday,August,35,Tasks,Apply the ADPATCH,NCC,9:30 AM,10:40 AM,70,1.17,In progress,AmmaMuthu
+31-08-2023,Thursday,August,35,Tasks,Apply the ADPATCH,NCC,11:00 AM,1:10 PM,130,2.17,In progress,AmmaMuthu
+31-08-2023,Thursday,August,35,Tasks,Adding a Size in DB,NCC,1:53 PM,3:33 PM,100,1.67,Completed,AmmaMuthu
+31-08-2023,Thursday,August,35,Tasks,Apply the ADPATCH,NCC,4:00 PM,5:35 PM,95,1.58,In progress,AmmaMuthu
+31-08-2023,Thursday,August,35,Meeting,Unscheduled meeting,NCC,5:35 PM,6:30 PM,55,0.92,Completed,AmmaMuthu
